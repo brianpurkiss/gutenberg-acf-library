@@ -35,5 +35,5 @@ require get_template_directory() . '/content-blocks/text-cta/text-cta-register-b
 
 // Create ACF fields and block layout
 // Boostrap button with different options
-require get_template_directory() . '/gutenberg/bs-button/acf-declaration.php';
-require get_template_directory() . '/gutenberg/bs-button/bs-button-register-block.php';
+require get_template_directory() . '/content-blocks/bs-button/acf-declaration.php';
+require get_template_directory() . '/content-blocks/bs-button/bs-button-register-block.php';
